@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/twoButtons/Debug/twoButtons.tlog
+/twoButtons/x64/Debug
+/.vs/twoButtons/v15
